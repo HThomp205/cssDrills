@@ -43,3 +43,51 @@ span {
     margin-top: .5em;
     margin-left: 5em;
 }
+
+h1 {
+    color: rgb(110, 0, 0);
+}
+
+.original {
+    color: blueviolet;
+}
+
+.additional {
+    color: rgb(40, 88, 40)
+}
+
+#first {
+    color: red;
+}
+
+#second{
+    color: purple;
+}
+
+#third {
+    color: yellowgreen;
+}
+
+#fourth {
+    color: lightcoral;
+}
+
+#fifth {
+    color: rgb(216, 13, 47);
+}
+
+ul {
+    color: rgb(0, 107, 0);
+}
+
+.star {
+    color: black;
+}
+
+#wars {
+    color: aqua;
+}
+
+.list {
+    border: 2px solid black;
+}

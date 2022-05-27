@@ -23,3 +23,11 @@ span {
     color: yellow;
     font-weight: bold;
 }
+
+.boxes {
+    margin: 2em;
+    padding: auto;
+    border: 4px solid rgb(77, 27, 4);
+    border-radius: 25px;
+    width: 30em;
+}
